@@ -12,6 +12,7 @@
 2. 11:52 (Setting up Express.js server)
 3. 59:55
 4. 2:02:55 (Create Recipe)
+5. 2:19:36 (Save Recipes)
 
 ### Encryption SHA-256
 
