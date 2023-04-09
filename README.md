@@ -8,9 +8,10 @@
 - MongoDB Compass https://www.mongodb.com/try/download/compass
 
 ### Progress
-1. 0.00
-2. 11.52 (Setting up Express.js server)
-3. 59.55
+1. 0:00
+2. 11:52 (Setting up Express.js server)
+3. 59:55
+4. 2:02:55 (Create Recipe)
 
 ### Encryption SHA-256
 
