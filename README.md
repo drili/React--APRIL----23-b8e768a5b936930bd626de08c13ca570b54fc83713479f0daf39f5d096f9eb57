@@ -5,6 +5,7 @@
 ### Ressources / Links
 
 - https://youtu.be/P43DW3HUUH8
+- MongoDB Compass https://www.mongodb.com/try/download/compass
 
 ### Progress
 1. 0.00
