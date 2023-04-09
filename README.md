@@ -8,6 +8,7 @@
 
 ### Progress
 1. 0.00
+2. 11.52 (Setting up Express.js server)
 
 ### Encryption SHA-256
 
